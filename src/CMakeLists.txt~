@@ -1,0 +1,5 @@
+
+
+ADD_EXECUTABLE(lab1 lab1.cpp)
+ADD_EXECUTABLE(readfile readfile.cpp)
+
